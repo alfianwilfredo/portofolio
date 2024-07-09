@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Laravel",
+        "url": "https://laravel.com",
+        "description": "The PHP framework for web artisans."
+    },
+    {
+        "name": "Vite",
+        "url": "https://vitejs.dev",
+        "description": "Next generation frontend tooling. ⚡️ Fast HMR."
+    }
+]
